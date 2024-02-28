@@ -1,0 +1,91 @@
+/* .about {
+    background: linear-gradient(135deg, #f9f9f9, #0b87a5); 
+   color: white; 
+   font-family: Arial, sans-serif;
+   background-image: url('../logos/finial.jpg');
+   filter: grayscale(100%);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 30px;
+}
+   
+ 
+ .about-title {
+   padding-top: "20px";
+   font-weight: bold;
+   font-family: 'montserrat';
+   font-size: 38px;
+  
+   margin-bottom: 10px;
+   text-align: center;
+   content:'center';
+ }
+ 
+ 
+ .about-subtitle {
+   font-family: 'Lora';
+   font-size: 28px;
+   font-style: italic;
+   margin-bottom: 10px;
+   text-align: center;
+   padding-left: -10px;
+   padding-right: 130px;
+
+ }
+ .about-Blog {
+   padding-left: 130px;
+   padding-right: 130px;
+   font-family: 'Lora';
+   font-size: 20px;
+   font-style: italic; 
+   line-height: 1.6;
+   
+ }
+ 
+ .about-text {
+   font-family: 'Lora';
+   padding-left: 130px;
+   padding-right: 130px;
+   font-size: 20px;
+   font-style: italic;
+   line-height: 1.6;
+ }  */
+
+
+ .about {
+    background: linear-gradient(135deg, #f9f9f9, #e2e2e2);
+    color: #333; /* Dark text color for better readability */
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+  
+  .about-title {
+    padding-top: "20px";
+    font-weight: bold;
+    font-family: 'montserrat';
+    font-size: 32px;
+   margin-left: 30px;
+   margin-top: 0    ;
+    margin-bottom: 10px;
+    text-align: center;
+    content:'center';
+  }
+  
+  .about-subtitle {
+    font-family: 'Lora';
+    font-size: 24px;
+    font-style: italic;
+    margin-bottom: 10px;
+    margin-left: 30px;
+  }
+  
+  .about-text {
+    font-family: 'Lora';
+    font-size: 18px;
+    font-style: italic;
+    line-height: 1.6;
+    margin-left: 30px;
+  }
+  
+  /* Add more styles as needed */
+  

@@ -1,0 +1,260 @@
+  /* 
+  .SearchBlog {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .search-container {
+    margin-right: 20px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .search-container label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 16px;
+    transition: transform 0.8s ease, box-shadow 0.2s ease;
+  }
+  
+  
+  .search-container label input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  .search-container:hover input[type="checkbox"] {
+    transform: scale(1.1); 
+  
+  .filter-container {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .filter-container label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .results-container {
+    text-align: left;
+  }
+  
+  .results-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .results-container li {
+    margin-bottom: 10px;
+  }
+   */
+
+
+
+
+
+
+
+/*Working Code*/
+
+  /* .SearchBlog {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .search-container {
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .search-container label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    font-size: 16px;
+    transition: transform 0.8s ease, box-shadow 0.2s ease;
+  }
+  
+  
+  .search-container label input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  .search-container:hover input[type="checkbox"] {
+    transform: scale(1.1); 
+  }
+   */
+  
+
+
+  
+  /* .filter-container {
+    display: inline-block;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .filter-container label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  } */
+  
+  /* .results-container {
+    text-align: left;
+  }
+  
+  .results-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .results-container li {
+    margin-bottom: 10px;
+  } */
+  
+
+
+
+
+
+
+
+
+  /* .SearchBlog {
+    text-align: center;
+  }
+  
+  .search-container {
+    margin: 20px 0;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: border-color 0.2s ease-in-out;
+  }
+  
+  input[type="text"]:focus {
+    border-color: #3498db;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #267dbb;
+  }
+  
+  button:active {
+    transform: scale(0.98);
+  }
+   */
+
+
+
+
+
+
+
+.SearchBlog {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.search-container {
+  width: 30%;
+  align-items: center;
+  margin: 20px 0;
+}
+
+input[type="text"] {
+  width: 100%;
+  max-width: 1300px; /* Limit the maximum width */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: border-color 0.2s ease-in-out;
+}
+
+input[type="text"]:focus {
+  border-color: #3498db;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #267dbb;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+.filter-container label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+/* Add any additional styles here */
+

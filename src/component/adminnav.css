@@ -1,0 +1,109 @@
+.ml-auto {
+
+    margin-left: auto;
+
+  }
+
+ 
+
+  /* Adjust the dropdown menu width to fit the content */
+
+  .dropdown-menu {
+
+    min-width: 200px;
+
+  }
+
+ 
+
+  @media (min-width: 768px) {
+
+    .navbar .ml-auto {
+
+      margin-left: auto;
+
+    }
+
+  }
+
+ 
+
+  #basic-nav-dropdown {
+
+    position: relative;
+
+  }
+
+ 
+
+ 
+
+  /* Style for the dropdown items */
+
+  #basic-nav-dropdown .nav-link {
+
+    color: #333;
+
+    padding: 8px 16px;
+
+    display: block;
+
+    text-decoration: none;
+
+    background-color: #fff;
+
+  }
+
+ 
+
+  /* Hover effect for dropdown items */
+
+  #basic-nav-dropdown .nav-link:hover {
+
+    background-color: #f0f0f0;
+
+  }
+
+ 
+
+  /* Style for the dropdown content */
+
+  #basic-nav-dropdown .nav-link:active,
+
+  #basic-nav-dropdown .nav-link:focus,
+
+  #basic-nav-dropdown .nav-link.active {
+
+    background-color: #e5e5e5;
+
+  }
+
+ 
+
+  /* Navbar.css */
+
+  .navbar-custom {
+
+    padding: 200px; /* Adjust the padding value as needed to increase the navbar size */
+
+  }
+
+ 
+
+  .navbar{
+
+    height: 80px;
+
+  }
+
+ 
+
+  /* Navbar.css */
+
+  .nav-right {
+
+    margin-left: auto;
+
+    font-size: x-large;
+
+  }

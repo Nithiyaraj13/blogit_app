@@ -1,0 +1,9 @@
+.custom-carousel {
+    max-width: 500px; /* Adjust the desired maximum width */
+    margin: 0 auto; /* Center the carousel horizontally */
+  }
+  
+  .carousel-image {
+    max-height: 70px; /* Adjust the desired maximum height */
+    object-fit: cover; /* Maintain image aspect ratio and cover the container */
+  }
